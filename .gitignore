@@ -38,3 +38,5 @@ backup
 *.fls
 *.pdfsync
 *.fdb_latexmk
+
+.venv/
