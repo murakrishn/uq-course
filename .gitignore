@@ -40,3 +40,4 @@ backup
 *.fdb_latexmk
 
 .venv/
+/**/__pycache__/
